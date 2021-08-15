@@ -13,9 +13,9 @@
 ## Contents
 - [RAN](#RAN)
 - [Core Network](#Core Network)
-- SIM
-- UE/CPE
-- Tools
+- [SIM](#SIM)
+- [UE/CPE](#UE/CPE)
+- [Tools](#Tools)
 
 ## RAN
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/)
@@ -45,10 +45,11 @@
 
 
 ## SIM
-- [pysim](https://github.com/osmocom/pysim)-
+- [pysim](https://github.com/osmocom/pysim)
 
 ## UE/CPE
 - [my5G-non3GPP-access ](https://github.com/my5G/my5G-non3GPP-access)
 
 ## Tools
-- [speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.
+- [speX](https://github.com/CoRfr/spex-3gpp) 
+  - A WebService to deliver 3GPP specifications.

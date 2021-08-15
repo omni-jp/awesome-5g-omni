@@ -12,7 +12,12 @@
 
 
 ## RAN
-
+- [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/)
+  - OpenAirInterface　Software Alliance(OSA)が提供する3GPPプロトコルに準拠した無線アクセスネットワーク系（eNB/gNB/UE）のソフトウェア
+  - 3GPP仕様に則り開発されているため、リファレンスコードとしても利用される
+  
+- [UERANSIM](https://github.com/aligungr/UERANSIM) 
+  - オープンソースの5G端末（UE）や無線アクセスネットワーク（RAN）を実装
 
 ## Core Network
 - [free5GC](https://github.com/free5gc/free5gc)

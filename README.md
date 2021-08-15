@@ -19,7 +19,7 @@
 
 ## RAN
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/)
-  - OpenAirInterface　Software Alliance(OSA)が提供する3GPPプロトコルに準拠した無線アクセスネットワーク系（eNB/gNB/UE）のソフトウェア
+  - OpenAirInterface Software Alliance(OSA)が提供する3GPPプロトコルに準拠した無線アクセスネットワーク系（eNB/gNB/UE）のソフトウェア
   - 3GPP仕様に則り開発されているため、リファレンスコードとしても利用される
   
 - [UERANSIM](https://github.com/aligungr/UERANSIM) 
@@ -36,7 +36,7 @@
   - 3GPP Realse16に準拠し、StandAlone（SA）構成に対応
 
 - [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) 
-  - OpenAirInterface　Software Alliance(OSA)が提供する3GPPプロトコルに準拠したコアネットワーク系（EPC and 5G）のソフトウェア
+  - OpenAirInterface Software Alliance(OSA)が提供する3GPPプロトコルに準拠したコアネットワーク系（EPC and 5G）のソフトウェア
   - 3GPP仕様に則り開発されているため、リファレンスコードとしても利用される
 
 - [magma](https://github.com/magma) 

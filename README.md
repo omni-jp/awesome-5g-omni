@@ -9,7 +9,11 @@
        - コンテンツの分類や、どこまで記載するか悩ましいですが、まずは記載してみて、少しづつ整理しながらコンテンツとして育てていければと考えています
 
 ## Contents
-
+- RAN
+- Core Network
+- SIM
+- UE/CPE
+- Tools
 
 ## RAN
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/)
@@ -32,6 +36,10 @@
 - [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) 
   - OpenAirInterface　Software Alliance(OSA)が提供する3GPPプロトコルに準拠したコアネットワーク系（EPC and 5G）のソフトウェア
   - 3GPP仕様に則り開発されているため、リファレンスコードとしても利用される
+
+- [magma](https://github.com/magma) 
+  - 新興国にコネクティビティを届けることを目的に開発が始まったOSS。EPCの機能(A-GW)だけではなく集中管理機能(Orchestrator)やMNOとの連携機能(F-GW)を有する。
+  - 5Gコアについては、Telecom Infra Projectと連携して最小構成版Minimum Viable Core(MVC版)を開発中。
 
 
 ## SIM

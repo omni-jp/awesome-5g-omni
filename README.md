@@ -12,7 +12,7 @@
 
 ## Contents
 - [RAN](#RAN)
-- [Core Network](#Core Network)
+- [Core Network](#CoreNetwork)
 - [SIM](#SIM)
 - [UE/CPE](#UE/CPE)
 - [Tools](#Tools)

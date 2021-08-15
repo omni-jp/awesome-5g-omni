@@ -18,7 +18,7 @@
 - [free5GC](https://github.com/free5gc/free5gc)
   - 3GPP Realse15に準拠したオープンソースソフトウェアの5Gコアであり、StandAlone（SA）構成に対応
   - 様々なネットワークファンクションを実装（NRF/AMF/AUSF/SMF/PCF/UDM/UDR/NSSF/UPF/N3IWF）
-  - コミュニティの動きも活発で、「free5GC forum」も存在
+  - コミュニティの動きも活発で、「[free5GC forum](https://forum.free5gc.org/)」も存在
   
 - [Open5GS](https://github.com/open5gs/open5gs) 
   - C言語で実装された、オープンソースソフトウェアの5Gコア及びEPC
@@ -26,6 +26,7 @@
 
 - [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) 
   - 
+
 
 ## SIM
 - [pysim](https://github.com/osmocom/pysim)-

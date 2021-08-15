@@ -8,9 +8,11 @@
     - 既にOMNIに参加するメンバのノウハウ集
        - コンテンツの分類や、どこまで記載するか悩ましいですが、まずは記載してみて、少しづつ整理しながらコンテンツとして育てていければと考えています
 
+- 参考：https://github.com/calee0219/awesome-5g
+
 ## Contents
-- RAN
-- Core Network
+- [RAN](#RAN)
+- [Core Network](#Core Network)
 - SIM
 - UE/CPE
 - Tools

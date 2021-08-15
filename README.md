@@ -52,6 +52,6 @@
 
 ## Tools
 - [5g-trace-visualizer](https://github.com/telekom/5g-trace-visualizer) 
-  - 
+  - This set of Python scripts allow you to convert pcap, pcapng or pdml 5G protocol traces (Wireshark, tcpdump, ...) into SVG sequence diagrams.
 - [speX](https://github.com/CoRfr/spex-3gpp) 
   - A WebService to deliver 3GPP specifications.

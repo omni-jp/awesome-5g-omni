@@ -25,7 +25,8 @@
   - 3GPP Realse16に準拠し、StandAlone（SA）構成に対応
 
 - [OAI-CN](https://gitlab.eurecom.fr/oai/cn5g) 
-  - 
+  - OpenAirInterface　Software Alliance(OSA)が提供する3GPPプロトコルに準拠したコアネットワーク系（EPC and 5G）のソフトウェア
+  - 3GPP仕様に則り開発されているため、リファレンスコードとしても利用される
 
 
 ## SIM
@@ -35,4 +36,4 @@
 - [my5G-non3GPP-access ](https://github.com/my5G/my5G-non3GPP-access)
 
 ## Tools
--[speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.
+- [speX](https://github.com/CoRfr/spex-3gpp) - A WebService to deliver 3GPP specifications.

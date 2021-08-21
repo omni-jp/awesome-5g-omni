@@ -25,6 +25,13 @@
 - [UERANSIM](https://github.com/aligungr/UERANSIM) 
   - オープンソースの5G端末（UE）や無線アクセスネットワーク（RAN）を実装
 
+- [5T for 5G](https://github.com/NVIDIA/5t5g)
+  - DPDK ライブラリとして実装されている NVIDIA (Mellanox) Smart NIC 機能である [5T for 5G](https://developer.nvidia.com/blog/new-real-time-smartnic-technology-5t-for-5g/) の参照実装
+  - [DPDK flow steering rule](https://doc.dpdk.org/guides/linux_gsg/linux_drivers.html?highlight=bifurcated#bifurcated-driver) を用いて O-RAN U-plane パケットのみを GPU メモリ上の DPDK mempool に [GPUDirect RDMA](https://docs.nvidia.com/cuda/gpudirect-rdma/index.html) で高速転送する O-DU 向けのネットワーク処理機能として利用できる
+
+- [Keysight's FREE Wireshark Protocol Analyzer with O-RAN WG4 CUS Decoding](https://connectlp.keysight.com/Open_RAN_Test_Solutions?elqTrackId=6DB5C2748D9C85098B282513331CEA32&elq=00000000000000000000000000000000&elqaid=4978&elqat=2&elqCampaignId=)
+  - O-RAN C/U/S プレーンをデコードできるように変更された Wireshark
+ 
 ## Core Network
 - [free5GC](https://github.com/free5gc/free5gc)
   - 3GPP Realse15に準拠したオープンソースソフトウェアの5Gコアであり、StandAlone（SA）構成に対応

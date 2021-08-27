@@ -63,3 +63,5 @@
   - This set of Python scripts allow you to convert pcap, pcapng or pdml 5G protocol traces (Wireshark, tcpdump, ...) into SVG sequence diagrams.
 - [speX](https://github.com/CoRfr/spex-3gpp) 
   - A WebService to deliver 3GPP specifications.
+- [pycrate](https://github.com/P1sec/pycrate)
+  - NGAP, RRC, F1APなどのASN.1で定義されているバイナリフォーマットやNASのエンコード・デコードライブラリ

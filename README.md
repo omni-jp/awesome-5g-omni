@@ -24,6 +24,7 @@
   
 - [UERANSIM](https://github.com/aligungr/UERANSIM) 
   - オープンソースの5G端末（UE）や無線アクセスネットワーク（RAN）を実装
+  - 主にコアネットワークと接続するための上位レイヤーのプロトコル(NGAP,NASなど)が実装されている
 
 - [5T for 5G](https://github.com/NVIDIA/5t5g)
   - DPDK ライブラリとして実装されている NVIDIA (Mellanox) Smart NIC 機能である [5T for 5G](https://developer.nvidia.com/blog/new-real-time-smartnic-technology-5t-for-5g/) の O-DU 向けの参照実装
